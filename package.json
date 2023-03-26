@@ -1,0 +1,14 @@
+{
+  "name": "fusion-star-project-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "sass": "node-sass --watch html/scss/main.scss html/css/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
